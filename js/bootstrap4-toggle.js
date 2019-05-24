@@ -7,6 +7,7 @@
 |*| Licensed under MIT
 |*| ========================================================================
 \*/
+import jQuery from 'jquery';
 
 +function ($) {
  	'use strict';
